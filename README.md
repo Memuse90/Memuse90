@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valeria</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
-
-- 🌱 I’m currently learning **TypeScript, React Native**
+<h3 align="center">Full stack developer from Argentina</h3>
 
 - 📫 How to reach me **valeriaalasia90@gmail.com**
 
