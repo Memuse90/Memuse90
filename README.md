@@ -13,8 +13,8 @@
 
 <h3 align="left">Proyects:</h3>
 
- <p align='left'><img src="./LandingC.png" alt="react" width="300" height="150"/><img src="./HomeC.png" alt="react" width="300" height="150"/> </p>
- <p align='left'><img src="./DetailC.png" alt="react" width="300" height="150"/><img src="./CreateA.png" alt="react" width="300" height="150"/> </p>
+ <p align='left'><img src="./LandingC.png" alt="react" width="150" height="75"/><img src="./HomeC.png" alt="react" width="150" height="75"/> 
+ <img src="./DetailC.png" alt="react" width="150" height="75"/><img src="./CreateA.png" alt="react" width="150" height="75"/> </p>
 <!--
 **Memuse90/Memuse90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
