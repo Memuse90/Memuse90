@@ -15,7 +15,7 @@
 
 <h4 align="left">Countries App</h4>
 <p align='left'>Development of a Single Page Application, using React for the Front End and Redux for state management. All components were developed using pure CSS, without any external library. The SPA consumes data from an API (REST COUNTRIES) through a Back End developed in Node.js, using Express, adding new functionalities to the original API.</p>
- <p align='left'><img src="./LandingC.png" alt="react" width="150" height="75"/><img src="./HomeC.png" alt="react" width="150" height="75"/> 
+ <p align='left'><img src="./LandingC.png" alt="react" width="150" height="75" border-radius="15"/><img src="./HomeC.png" alt="react" width="150" height="75"/> 
  <img src="./DetailC.png" alt="react" width="150" height="75"/><img src="./CreateA.png" alt="react" width="150" height="75"/> </p>
  <p align='left'>https://vimeo.com/694549059</p>
  <h4 align="left">Group Project: VIPets</h4>
